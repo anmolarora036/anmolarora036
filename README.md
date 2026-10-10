@@ -1,6 +1,6 @@
 # Anmol Arora
 
-I'm a data scientist with 7+ years of experience working across analytics, strategy, and product development. I've worked on problems ranging from predictive modelling and business optimisation to digital transformation and product strategy.
+I'm a data scientist with experience of working across analytics, strategy, and product development. I've worked on problems ranging from predictive modelling and business optimisation to digital transformation and product strategy.
 
 My background is in computer science and data science, and I recently completed my MBA at the University of Oxford.
 
